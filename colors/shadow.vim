@@ -5,7 +5,7 @@ endif
 
 set background=dark
 
-highlight Normal ctermfg=189 guifg=#d7d7f
+highlight Normal ctermfg=189 guifg=#d7d7ff
 highlight Comment cterm=bold ctermfg=red guifg=red
 highlight Constant ctermfg=white guifg=white
 highlight Identifier ctermfg=white guifg=white
