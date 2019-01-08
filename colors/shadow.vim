@@ -6,12 +6,12 @@ endif
 set background=dark
 
 highlight Normal ctermfg=189 guifg=#d7d7ff
-highlight Comment cterm=bold ctermfg=red guifg=red
 highlight Constant ctermfg=white guifg=white
-highlight Identifier ctermfg=white guifg=white
-highlight Statement ctermfg=white guifg=white
-highlight PreProc ctermfg=white guifg=white
-highlight Type ctermfg=white guifg=white
-highlight Special ctermfg=white guifg=white
-highlight Underlined ctermfg=white guifg=white
-highlight Error ctermfg=white guifg=white
+highlight Comment cterm=bold ctermfg=red guifg=red
+highlight Identifier cterm=bold ctermfg=white guifg=white
+highlight Statement cterm=bold ctermfg=white guifg=white
+highlight PreProc cterm=bold ctermfg=white guifg=white
+highlight Type cterm=bold ctermfg=white guifg=white
+highlight Special cterm=bold ctermfg=white guifg=white
+highlight Underlined cterm=bold ctermfg=white guifg=white
+highlight Error cterm=bold ctermfg=white guifg=white
