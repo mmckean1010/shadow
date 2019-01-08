@@ -4,4 +4,3 @@ if exists("syntax_on")
 endif
 
 set background=dark
-set g:colors_name="shadow"
