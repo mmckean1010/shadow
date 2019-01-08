@@ -6,11 +6,11 @@ endif
 set background=dark
 
 highlight Comment ctermfg=red cterm=red guifg=red
-highlight Constant ctermfg=gray cterm=gray guifg=gray
-highlight Identifier ctermfg=gray cterm=gray guifg=gray
-highlight Statement ctermfg=gray cterm=gray guifg=gray
-highlight PreProc ctermfg=gray cterm=gray guifg=gray
-highlight Type ctermfg=gray cterm=gray guifg=gray
-highlight Special ctermfg=gray cterm=gray guifg=gray
-highlight Underlined ctermfg=gray cterm=gray guifg=gray
-highlight Error ctermfg=gray cterm=gray guifg=gray
+highlight Constant ctermfg=grey cterm=grey guifg=grey
+highlight Identifier ctermfg=grey cterm=grey guifg=grey
+highlight Statement ctermfg=grey cterm=grey guifg=grey
+highlight PreProc ctermfg=grey cterm=grey guifg=grey
+highlight Type ctermfg=grey cterm=grey guifg=grey
+highlight Special ctermfg=grey cterm=grey guifg=grey
+highlight Underlined ctermfg=grey cterm=grey guifg=grey
+highlight Error ctermfg=grey cterm=grey guifg=grey
