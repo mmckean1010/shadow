@@ -5,8 +5,8 @@ endif
 
 set background=dark
 
-highlight Normal ctermfg=189 guifg=#d7d7ff
-highlight Constant ctermfg=white guifg=white
+highlight Normal ctermfg=white guifg=white ctermbg=black guibg=black
+highlight Constant cterm=bold ctermfg=220 guifg=ffd700
 highlight Comment cterm=bold ctermfg=red guifg=red
 highlight Identifier cterm=bold ctermfg=white guifg=white
 highlight Statement cterm=bold ctermfg=white guifg=white
@@ -15,3 +15,5 @@ highlight Type cterm=bold ctermfg=white guifg=white
 highlight Special cterm=bold ctermfg=white guifg=white
 highlight Underlined cterm=bold ctermfg=white guifg=white
 highlight Error cterm=bold ctermfg=white guifg=white
+highlight LineNr ctermfg=gray guifg=gray
+highlight CursorLine cterm=NONE ctermbg=244 guibg=#808080
