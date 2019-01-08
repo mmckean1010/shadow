@@ -18,3 +18,4 @@ highlight Error cterm=bold ctermfg=white guifg=white
 highlight LineNr ctermfg=gray guifg=gray
 highlight CursorLine cterm=NONE ctermbg=244 guibg=#808080
 highlight CursorLineNr cterm=bold ctermfg=white guifg=white
+highlight MatchParen cterm=bold ctermfg=220 guifg=#ffd700 ctermbg=NONE guibg=NONE
